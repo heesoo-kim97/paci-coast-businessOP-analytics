@@ -8,6 +8,21 @@
 
 **Status:** In Progress
 
+## Project Navigation
+
+| Section | Description |
+|---|---|
+| [Business Overview](#business-overview) | Company background, business model, and operational challenges |
+| [Business Insights](#business-insights) | Key findings, KPIs, and business recommendations |
+| [Dashboards](#dashboards) | Interactive analytics and visual reporting |
+| [Business Case Studies](#business-case-studies) | Detailed analyses of operational business problems |
+| [Data & Database](#data--database) | Data model, ERD, database structure, and datasets |
+| [SQL Analysis](#sql-analysis) | Analytical queries and business metrics |
+| [Python & ETL](#python--etl) | Data generation, transformation, cleaning, and validation |
+| [AI-Assisted Development](#ai-assisted-development) | Claude usage, prompts, implementation, and validation |
+| [Project Architecture](#project-architecture) | System architecture and technical workflow |
+| [Project Roadmap](#project-roadmap) | Development progress and future enhancements |
+
 ---
 
 ## 1. Project Overview
