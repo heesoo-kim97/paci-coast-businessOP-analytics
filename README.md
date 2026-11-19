@@ -48,6 +48,32 @@ Claude will be incorporated throughout development to assist with system design,
 
 ---
 
+## Featured Deliverables
+
+### Business Intelligence
+- [Executive Business Dashboard](dashboard/README.md#executive-dashboard)
+- [Inventory & Warehouse Analysis](dashboard/README.md#inventory--warehouse)
+- [Transportation & Fulfillment Analysis](dashboard/README.md#transportation--fulfillment)
+- [Procurement & Financial Analysis](dashboard/README.md#procurement--financials)
+
+### Business Case Studies
+- [Inventory Optimization](docs/business_case_inventory.md)
+- [Carrier Performance & Cost Analysis](docs/business_case_transportation.md)
+- [Procurement & Margin Analysis](docs/business_case_procurement.md)
+
+### Technical Work
+- [Database Schema & ERD](database/README.md)
+- [SQL Analysis](sql/README.md)
+- [Python Data Pipeline & ETL](python/README.md)
+- [Data Validation](python/README.md#data-validation)
+
+### AI-Assisted Development
+- [AI Development Methodology](ai_development/methodology/README.md)
+- [Claude Prompt Library](ai_development/prompts/README.md)
+- [Development & Validation Log](ai_development/development_log.md)
+
+---
+
 ## 2. Company Background
 
 **Paci Coast Beverage Distribution**
